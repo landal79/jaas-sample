@@ -1,7 +1,7 @@
 jaas-sample
 ============
 
-Some sample about JAAS
+Some samples about JAAS
 
 References
 -----------
